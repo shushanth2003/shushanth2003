@@ -6,7 +6,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_._shushanth_._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shushanth-b-s-80b94922a/) 
 
 # 💻 Tech Stack:
-![Numpy]![icons8-numpy-48](https://github.com/shushanth2003/shushanth2003/assets/103485945/ccd74980-bc94-4d10-8be9-1668b540c43b)
+![icons8-numpy-48](https://github.com/shushanth2003/shushanth2003/assets/103485945/ccd74980-bc94-4d10-8be9-1668b540c43b)![icons8-postgresql-48](https://github.com/shushanth2003/shushanth2003/assets/103485945/56a423c4-590f-4bde-9c79-343d276ecb07)![icons8-power-bi-48](https://github.com/shushanth2003/shushanth2003/assets/103485945/556dc205-354b-479c-970b-853308c4b8c7)![icons8-python-48](https://github.com/shushanth2003/shushanth2003/assets/103485945/bfe7ca45-ea78-46da-a337-a36a93617df4)
+
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shushanth2003&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
